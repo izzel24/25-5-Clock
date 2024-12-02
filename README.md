@@ -6,7 +6,7 @@ This project is part of the FreeCodeCamp Certification program, showcasing a fun
 <img src="https://raw.githubusercontent.com/izzel24/25-5-Clock/refs/heads/main/screenshot_project.png"/>
 
 ## Live Demo 🚀
-Check out the live demo of the project here: [25 + 5 Clock](https://izzel24.github.io/25-5-clock)
+Check out the live demo of the project here: [25 + 5 Clock](https://izzel24.github.io/25-5-Clock/)
 
 ## How It Works 🔧
 1. **Session Timer**: Tracks a user-defined work session length (default is 25 minutes).
